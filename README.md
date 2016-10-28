@@ -53,3 +53,8 @@ Click "Install".
 
 Accept the terms of the license agreement and click **Finish**.
 
+### Install using drag-n-drop icon
+
+Or drag and drop 
+<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=100598" class="drag" title="Drag onto your Eclipse main toolbar  to install protobuf-dt"><img class="img-responsive" src="http://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png" alt="Drag onto your Eclipse main toolbar  to install protobuf-dt" /></a>
+onto your Eclipse main toolbar.
